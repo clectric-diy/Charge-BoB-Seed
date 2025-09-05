@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Charge-BoB-Seed.kicad_prl",
+    "filename": "Charge-Seed-Breakout.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
