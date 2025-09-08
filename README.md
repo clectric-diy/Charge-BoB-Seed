@@ -3,7 +3,7 @@ Here is the first render of our Daisy Seed Breakout Board :
 
 ![2D perspective of breakout board](docs/images/Charge-Seed-1st-Render.png)
 
-The goal is to create a breakout board that contains the reference information that you need to work with the Daisy Seed.
+The goal is to create a breakout board that includes the reference information that you need to work with the Daisy Seed.
 
 It's hard to tell without a 3D perspective, but those are female headers for the seed to plug into with both male and female headers available to use as well as screw terminal blocks.
 
