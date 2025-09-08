@@ -5,7 +5,7 @@
 	(uuid "022bfcb3-62f9-4f99-9a9b-eaa06ef441e5")
 	(paper "A4")
 	(title_block
-		(title "Charge-BoB-Seed")
+		(title "Charge-Seed-Breakout")
 		(date "2025-09-03")
 		(rev "0.1")
 		(company "clectric.diy")
