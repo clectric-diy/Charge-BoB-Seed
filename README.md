@@ -1,7 +1,7 @@
 # First Sketch
-Here is the first sketch that I (chleggett) made of the Charge-BoB-Seed:
+Here is the first render of our Daisy Seed Breakout Board :
 
-![rough sketch of the breakout board with some written design goals.](docs/images/Charge-BoB-Seed-1st-Sketch.png)
+![2D perspective of breakout board](docs/images/Charge-Seed-1st-Render.png)
 
 # License
 This project is open hardware under the [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf) license.
