@@ -1,4 +1,4 @@
-# First Sketch
+# First Render
 Here is the first render of our Daisy Seed Breakout Board :
 
 ![2D perspective of breakout board](docs/images/Charge-Seed-1st-Render.png)
